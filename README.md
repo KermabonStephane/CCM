@@ -1,2 +1,0 @@
-# comics
-Comics Collection Management
